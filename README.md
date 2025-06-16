@@ -1,2 +1,2 @@
 # voxform
-voice + text enabled sound design
+voice enabled silly sound design
