@@ -1,2 +1,2 @@
 # voxform
-voice enabled silly sound design
+sound design + music AI stuff
